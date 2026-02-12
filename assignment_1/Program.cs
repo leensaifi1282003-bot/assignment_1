@@ -1,1 +1,1 @@
-﻿ConsoleSpecialKey
+﻿HandleInheritability
